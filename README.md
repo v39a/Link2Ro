@@ -11,7 +11,9 @@
 
 ## What are the valid nickname templates?
 > Below is a list of the valid nickname templates, and you can even add emojis and words to the templates. Here's a few examples: `💎 {roblox-username}`, `[SPC] 💎 {roblox-username}`, `{roblox-username}`.
-```{roblox-username}, {roblox-display}, {roblox-smart}, {discord-username}, {none}```.
+```
+{roblox-username}, {roblox-display}, {roblox-smart}, {discord-username}, {none}
+```
 
 ## How do priorities work?
 > Priorities tell Link2Ro which nickname template to use if a user is ranked in more than one group. Take, for example, you have two separate groups in the rankbinds database and the user has a specific role in both groups:
