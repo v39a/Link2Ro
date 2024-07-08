@@ -9,6 +9,11 @@
 ## How do I set-up Link2Ro for my guild?
 > You can setup Link2Ro for your own guild by running any of the `/settings` commands. Like, `/settings-permissions`, `/settings-channels`, etc. We recommend setting up rankbinds last and everything else first.
 
+## What is a "role-rank"?
+> A "role-rank" is the rank of a role in a Roblox group. Take the image below for an example:
+![image](https://github.com/v39a/Link2Ro/assets/134019055/6ae7e266-8a84-4c1c-990e-12f8fc2d0c6e)
+> If I wanted to add a rankbind for the "Founder" role, then I would set the "role-rank" to 255.
+
 ## What are the valid nickname templates?
 > Below is a list of the valid nickname templates, and you can even add emojis and words to the templates. Here's a few examples: `💎 {roblox-username}`, `[SPC] 💎 {roblox-username}`, `{roblox-username}`.
 ```
