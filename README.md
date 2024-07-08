@@ -1,5 +1,8 @@
 # Link2Ro
 
+## Where's the Discord server link to the Link2Ro Discord support server?
+> You can get the link by running the `/support` command or by clicking this [link](https://discord.gg/uZh9c59XVS).
+
 ## How do I invite Link2Ro?
 > You can invite Link2Ro to your own guild by using this [link](https://discord.com/oauth2/authorize?client_id=1245056156184088596).
 
